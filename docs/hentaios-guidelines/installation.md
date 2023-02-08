@@ -14,19 +14,29 @@ Prepare your device:
 
 ## Flash AOSP Recovery
 
-The recovery image is available at [sfire.site](http://sfire.site):
+The recovery image is available at [sfire.site](https://sfire.site):
 
 Flash the `recovery.img` file by `fastboot flash recovery *path/to/recovery.img*` command
 
+![recoveryflash](/img/term-fb-flash.png)
+
 ## Flash hOS update zip
 
-A rom update is available at [sfire.site](http://sfire.site):
+A rom update is available at [sfire.site](https://sfire.site):
 
 - Reboot to recovery mode by hodling *vol-up* button
 - To exit **no command** mode press *power* and *vol-up* buttons
 - For selecting menu options use **volume buttons**
 - For entering command use **power button**
 - Wipe your system by *Wipe Data/Factory Reset* menu option
+
+![recoverywipe](/img/rec-wipe.png)
+
 - Enter sideloading mode by *Install update through ADB* menu option
+
+![recoverywipe](/img/rec-install.png)
+
 - Use `adb sideload path/to/update.zip` command to flash update and wait for process to finish
 - When process has been finished reboot your phone by *Reboot to System* option
+
+![recoverywipe](/img/rec-reboot.png)

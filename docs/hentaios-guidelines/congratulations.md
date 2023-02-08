@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Congratulations!
 
+![booting](/img/ph-booting.png)
+
 You have just flashed the **hOS Rom**.
 
 Why? Don't know!
