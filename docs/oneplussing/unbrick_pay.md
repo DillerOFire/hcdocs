@@ -8,8 +8,8 @@ sidebar_position: 1
 
 Prepare your puter to fluuuush:
 
-- Download [OFP](https://firmwarex.net/download/pgkm10domestic_11_a-06_2022041601330378/#) 
-You can also get it [there](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20Ace/)
+- Download [OFP](https://firmwarex.net/download/pgkm10domestic_11_a-06_2022041601330378/#)
+You can also get it [there](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20Ace/) (PKGM for Ace and CPH for 10r)
 - Install [Oplus Drivers](https://sfire.site/Oppo-USB-Driver-Setup-V3.1.9.1.zip)
 - Get [Oplus flash tool](https://sfire.site/OplusFlashTool_v5.0.8.5_for_Sales.zip)
 - Download [gapro login tool](https://www.gaprologin.com) and place exe file inside flashtool folder
@@ -38,6 +38,15 @@ After you got OTP for gapro reproduce these steps:
 - Open gapro tool, select Oneplus service and area for your device (more like "other area")
 - After you get into flash tool, import OFP folder and press flash button
 - After flash tool prepared, connect your cable and tool will flash automatically.
+
+## Some things you can try
+
+- Be happy with stock shit and don't do anything dangerous anymore
+- Check [MTK Meta Utility](https://www.bypassfrpfiles.com/2021/05/mtk-secure-boot-disable-tool/)
+you can try some tools there (like reboot to fastboot and shit)
+- [MTK Auth Bypass](https://sfire.host/MtkAuthBypass.zip) may help too
+- [FlashTool without login here](https://sfire.host/hflashtool.rar)
+- everything on your own risk and if you got any progress just contact me.
 
 ## P.S
 At your wish I can add you to contacts just dm me.
