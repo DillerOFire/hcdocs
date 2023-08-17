@@ -50,17 +50,19 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Holoction Wiki',
+        title: '',
         logo: {
-          alt: 'VerpaSRP',
+          alt: 'HCion',
           src: 'img/logo.svg',
+          srcDark: 'img/logo_dark.svg',
+	  height: 32,
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Wiki',
           },
           {
             href: 'https://github.com/DillerOFire',
@@ -75,7 +77,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Wiki',
                 to: '/docs/intro',
               },
             ],
