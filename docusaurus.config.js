@@ -50,7 +50,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Wiki',
+        title: 'Holoction Wiki',
         logo: {
           alt: 'VerpaSRP',
           src: 'img/logo.svg',
