@@ -2,10 +2,11 @@
 sidebar_position: 1
 ---
 
-# hOS Installation guide for lavender
+# PixelExperience Installation guide for x30 pro
 
 Prepare your device:
 
+- Be sure you're using android 12 global rom
 - Get platform-tools
 - Get in fastboot mod by rebooting and hodling *vol-down* button
 - Connect your device to pc by usb cable
@@ -14,25 +15,26 @@ Prepare your device:
 
 ## Flash AOSP Recovery
 
-The recovery image is available at [sfire.site](https://sfire.pw):
+The recovery image is available at [sfire.pw](https://sfire.pw/pe_recovery_eqs.img):
 
-Flash the `recovery.img` file by `fastboot flash recovery *path/to/recovery.img*` command
+Flash the `recovery.img` file by `fastboot flash recovery_a *path/to/recovery.img*` command
+Flash the `recovery.img` to second slot file by `fastboot flash recovery_b *path/to/recovery.img*` command
 
 ![recoveryflash](/img/term-fb-flash.png)
 
-## Flash hOS update zip
+## If you're coming from myui
 
-A rom update is available at [sfire.site](https://sfire.pw):
+Flash [copy-partitions](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip)
 
-- Reboot to recovery mode by hodling *vol-up* button
-- To exit **no command** mode press *power* and *vol-up* buttons
-- For selecting menu options use **volume buttons**
-- For entering command use **power button**
+## Flash PE update zip
+
+A rom update is available at [sfire.pw](https://sfire.pw/pe_latest_eqs.zip):
+
 - Wipe your system by *Wipe Data/Factory Reset* menu option
 
 ![recoverywipe](/img/rec-wipe.png)
 
-- Enter sideloading mode by *Install update through ADB* menu option
+- Enter sideloading mode by *Apply update* -> *Install update through ADB* menu option
 
 ![recoverywipe](/img/rec-install.png)
 
