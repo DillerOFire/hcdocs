@@ -24,6 +24,8 @@ Flash the `recovery.img` to second slot file by `fastboot flash recovery_b *path
 
 ## If you're coming from myui
 
+Use another recovery to flash copy-partitions for a while!!!!
+
 Flash [copy-partitions](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip)
 
 ## Flash hOS update zip
