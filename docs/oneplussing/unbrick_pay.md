@@ -9,6 +9,7 @@ sidebar_position: 1
 Prepare your puter to fluuuush:
 
 - Please care to check your device region (Ace - chinese and it's PKGM, CPH is indian and it's 10r)
+- For ace variant consider to use OFP_ColorOS a.06 which is 19G
 - Download [OFP](https://firmwarex.net/download/pgkm10domestic_11_a-06_2022041601330378/#) (PKGM - Ace variant)
 You can also get OFP [there](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20Ace/) (ColorOS PKGM for Ace and OxygenOS CPH for 10r)
 - It's recomended to use download manager, as speed can be really slow for 20GB
