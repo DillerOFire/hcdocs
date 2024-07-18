@@ -13,8 +13,8 @@ Prepare your puter to fluuuush:
 - Download [OFP](https://firmwarex.net/download/pgkm10domestic_11_a-06_2022041601330378/#) (PKGM - Ace variant)
 You can also get OFP [there](https://yun.daxiaamu.com/OnePlus_Roms/%E4%B8%80%E5%8A%A0OnePlus%20Ace/) (ColorOS PKGM for Ace and OxygenOS CPH for 10r)
 - It's recomended to use download manager, as speed can be really slow for 20GB
-- Install [Oplus Drivers](https://sfire.pw/Oppo-USB-Driver-Setup-V3.1.9.1.zip)
-- Get [FTGUI](https://sfire.pw/FTGUIDev.exe)
+- Install [Oplus Drivers](https://holoction.ru/Oppo-USB-Driver-Setup-V3.1.9.1.zip)
+- Get [FTGUI](https://holoction.ru/FTGUIDev.exe)
 - Download [gapro login tool](https://www.gaprologin.com) and place exe file inside folder with FTGUI
 - Connect your device to pc by usb cable
 - Get in COM by rebooting and hodling *vol-down* and *vol-up* button
