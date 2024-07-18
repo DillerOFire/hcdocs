@@ -15,7 +15,7 @@ Prepare your device:
 
 ## Flash AOSP Recovery
 
-The recovery image is available at [sfire.pw](https://sfire.pw/recovery_eqs.img):
+The recovery image is available at [holoction.ru](https://holoction.ru/recovery_eqs.img):
 
 Flash the `recovery.img` file by `fastboot flash recovery_a *path/to/recovery.img*` command
 Flash the `recovery.img` to second slot file by `fastboot flash recovery_b *path/to/recovery.img*` command
@@ -56,7 +56,7 @@ Prepare your device:
 
 ## Flash AOSP Recovery
 
-The recovery image is available at [sfire.pw](https://sfire.pw/pe_recovery_eqs.img):
+The recovery image is available at [holoction.ru](https://holoction.ru/pe_recovery_eqs.img):
 
 Flash the `recovery.img` file by `fastboot flash recovery_a *path/to/recovery.img*` command
 Flash the `recovery.img` to second slot file by `fastboot flash recovery_b *path/to/recovery.img*` command
@@ -69,7 +69,7 @@ Flash [copy-partitions](https://mirrorbits.lineageos.org/tools/copy-partitions-2
 
 ## Flash PE update zip
 
-A rom update is available at [sfire.pw](https://sfire.pw/pe_latest_eqs.zip):
+A rom update is available at [holoction.ru](https://holoction.ru/pe_latest_eqs.zip):
 
 - Wipe your system by *Wipe Data/Factory Reset* menu option
 

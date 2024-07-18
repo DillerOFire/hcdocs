@@ -14,7 +14,7 @@ Prepare your device:
 
 ## Flash AOSP Recovery
 
-The recovery image is available at [sfire.site](https://sfire.pw):
+The recovery image is available at [holoction.ru](https://holoction.ru):
 
 Flash the `recovery.img` file by `fastboot flash recovery *path/to/recovery.img*` command
 
@@ -22,7 +22,7 @@ Flash the `recovery.img` file by `fastboot flash recovery *path/to/recovery.img*
 
 ## Flash hOS update zip
 
-A rom update is available at [sfire.site](https://sfire.pw):
+A rom update is available at [holoction.ru](https://holoction.ru):
 
 - Reboot to recovery mode by hodling *vol-up* button
 - To exit **no command** mode press *power* and *vol-up* buttons
